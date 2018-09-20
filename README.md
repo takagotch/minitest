@@ -7,3 +7,12 @@ assert_template
 assert_select
 get
 
+
+faxtures-minitest
+
+
+
+```
+```
+
+
